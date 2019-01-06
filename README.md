@@ -12,4 +12,4 @@
 | Псевдонимы типов | https://www.youtube.com/watch?v=RRW9SAA_Ues |
 | Generics: начало | https://www.youtube.com/watch?v=ShkgWTKFwpU |
 
-### Сладующий стрим 12.01.2019
+### Следующий стрим 12.01.2019
