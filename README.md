@@ -13,4 +13,4 @@
 | Generics: начало    | https://www.youtube.com/watch?v=ShkgWTKFwpU |
 | Generics and Unions | https://www.youtube.com/watch?v=hbWdW1g11nI |
 
-### Следующий стрим 12.01.2019
+### Следующий стрим 13.01.2019
