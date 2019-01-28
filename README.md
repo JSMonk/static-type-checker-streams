@@ -14,4 +14,4 @@
 | Generics and Unions | https://www.youtube.com/watch?v=hbWdW1g11nI |
 | Operators           | https://www.youtube.com/watch?v=Buw5lzK_HKQ |
 
-### Следующий стрим 19.01.2019
+### Следующий стрим 03.02.2019
