@@ -1,0 +1,16 @@
+language theory, type theory
+
+"practical foundation for programming languages" 1 ed. full
+http://profs.sci.univr.it/~merro/files/harper.pdf
+
+"Types and programming languages" B. Pierce
+http://starling.rinet.ru/~goga/tapl/tapl.pdf
+
+Андрей Бреслав. Функции и данные в Kotlin (expression problem)
+https://www.youtube.com/watch?v=9x6utkLDBs8
+
+Юлия Белякова (много ссылок на papers по теории типов)
+https://github.com/julbinb/public-talks
+
+Юлия Белякова (курсы, papers)
+http://staff.mmcs.sfedu.ru/~juliet/ru/bio.ru.html
