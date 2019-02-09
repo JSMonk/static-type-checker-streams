@@ -13,5 +13,6 @@
 | Generics: начало    | https://www.youtube.com/watch?v=ShkgWTKFwpU |
 | Generics and Unions | https://www.youtube.com/watch?v=hbWdW1g11nI |
 | Operators           | https://www.youtube.com/watch?v=Buw5lzK_HKQ |
+| Type Checking       | https://www.youtube.com/watch?v=Guk3Ae0ZhTQ |
 
 ### Следующий стрим 03.02.2019
