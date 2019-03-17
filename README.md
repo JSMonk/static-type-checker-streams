@@ -15,5 +15,6 @@
 | Operators                     | https://www.youtube.com/watch?v=Buw5lzK_HKQ |
 | Error Inference               | https://www.youtube.com/watch?v=jGh2l6-RnHw |
 | Union Object, Type Refinement | https://www.youtube.com/watch?v=WMzjQhzAdsI |
+| Type Refinement               | https://www.youtube.com/watch?v=H7i6-zv384g |
 
 ### Следующий стрим 03.02.2019
